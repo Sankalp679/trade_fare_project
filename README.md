@@ -6,10 +6,10 @@
 
 |    | Technologies Used                                                                                                                                                      |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. | HTML , CSS , JS, Bootstrap for frontend.                                                                                                                             |
-| 2. | MySQL for storing data.                                                                                                                                            |
-| 3. | Node.js and Express for backend.                                                                                                                                       |
-| 4. | EJS (Embedded Javascript Templating) for dynamic rendering of data(database) in frontend.                                                                                                                                    |
+| 1. | HTML , CSS , JS, BOOTSTRAP for frontend                                                                                                                          |
+| 2. | MySQL for storing data                                                                                                                                          |
+| 3. | Node.js and Express for backend                                                                                                                                    |
+| 4. | EJS (Embedded Javascript Templating) for dynamic rendering of data(database) to frontend                                                                                                                                   |
 
 | 5. | Charts.js for graphs                                                                                                                                       |
 
@@ -32,13 +32,13 @@
 
 |    | Things Achieved During The Project                                                                                                                                     |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. | Learnt to make er diagram and database from scrap.                                                                                                                                    |
-| 2. | Connected all the tables in proper format and implemented it using MySQL.                                                                                                    |
-| 3. | Implemented backend using Node.js, Express(Node.js Framework).                                                                                                                          |
-| 4. | Connected database with Node.js, Express (backend) using JS.                                                                                                                          |
-| 5. | Used EJS templating for dynamic rendering of data from database.                                                                                                                         | 
-| 6. | Implemented all the CRUD operations i.e. add , update , delete operations.                                                                                              |     
-| 7. | Learned dynamic plotting of graphs in frontend using Charts.js.                                                                                             |     |
+| 1. | Learnt to make er diagram and database from scrap                                                                                                                                    |
+| 2. | Connected all the tables in proper format and implemented it using MySQL                                                                                                    |
+| 3. | Implemented backend using Node.js, Express(Node.js Framework)                                                                                                                          |
+| 4. | Connected database with Node.js, Express (backend) using JS                                                                                                                          |
+| 5. | Used EJS templating for dynamic rendering of data from database to frontend                                                                                                                        | 
+| 6. | Implemented all the CRUD operations i.e. add , update , delete operations                                                                                              |     
+| 7. | Learned dynamic plotting of graphs in frontend using Charts.js                                                                                             |     |
 </details> 
 
 <div align="center">
