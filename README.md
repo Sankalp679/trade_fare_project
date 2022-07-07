@@ -17,15 +17,15 @@
 <details><summary><b>Video Demonstration</b></summary>
 </br>
 <h4>Entity Relationship Diagram</h4>
-<img class="center" alt="er diagram" src="images/Trade Fare Relational Data Model.pdf"> </img></br></br>
+<img class="center" alt="er diagram" src="images_readme/Trade Fare Relational Data Model.pdf"> </img></br></br>
 <h4>Dashboard</h4>
-<img class="center" alt="Dashboard" src="images/dashboard.gif"></img></br></br>
+<img class="center" alt="Dashboard" src="images_readme/dashboard.gif"></img></br></br>
 <h4>Adding new data and reflecting the same on Database. </h4>
-<img class="center" alt="Add" src="images/add.gif"></img></br></br>
+<img class="center" alt="Add" src="images_readme/add.gif"></img></br></br>
 <h4>Updating the existing data and reflecting the same on Database.</h4>
-<img center="Update" src="images/update.gif"></img>
+<img center="Update" src="images_readme/update.gif"></img>
 <h4>Deleting the data and reflecting the same on Database.</h4>
-<img center="Delete" src="images/delete.gif"></img>
+<img center="Delete" src="images_readme/delete.gif"></img>
 </details>      
 
 <details><summary><b>Things Achieved During The Project  </b></summary>
