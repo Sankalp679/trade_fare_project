@@ -10,7 +10,6 @@
 | 2. | MySQL for storing data                                                                                                                                          |
 | 3. | Node.js and Express for backend                                                                                                                                    |
 | 4. | EJS (Embedded Javascript Templating) for dynamic rendering of data(database) to frontend                                                                                                                                   |
-
 | 5. | Charts.js for graphs                                                                                                                                       |
 
 </details>   
