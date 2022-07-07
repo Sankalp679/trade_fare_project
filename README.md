@@ -16,14 +16,16 @@
   
 <details><summary><b>Video Demonstration</b></summary>
 </br>
+<h4>Entity Relationship Diagram</h4>
+<img class="center" alt="er diagram" src="images/Trade Fare Relational Data Model.pdf"> </img></br></br>
 <h4>Dashboard</h4>
-<img class="center" alt="Dashboard" src="Videos/dashboard.gif"> </img></br></br>
+<img class="center" alt="Dashboard" src="images/dashboard.gif"></img></br></br>
 <h4>Adding new data and reflecting the same on Database. </h4>
-<img class="center" alt="Add" src="Videos/add.gif"></img></br></br>
+<img class="center" alt="Add" src="images/add.gif"></img></br></br>
 <h4>Updating the existing data and reflecting the same on Database.</h4>
-<img center="Update" src="Videos/update.gif"></img>
+<img center="Update" src="images/update.gif"></img>
 <h4>Deleting the data and reflecting the same on Database.</h4>
-<img center="Delete" src="Videos/delete.gif"></img>
+<img center="Delete" src="images/delete.gif"></img>
 </details>      
 
 <details><summary><b>Things Achieved During The Project  </b></summary>
@@ -31,7 +33,7 @@
 
 |    | Things Achieved During The Project                                                                                                                                     |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. | Learnt to make er diagram and database from scrap                                                                                                                                    |
+| 1. | Learned to make Entity Relationship Diagram and build database from scrap                                                                                                                                    |
 | 2. | Connected all the tables in proper format and implemented it using MySQL                                                                                                    |
 | 3. | Implemented backend using Node.js, Express(Node.js Framework)                                                                                                                          |
 | 4. | Connected database with Node.js, Express (backend) using JS                                                                                                                          |
