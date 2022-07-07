@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <title>Hello, world!</title>
+</head>
+
+<body>
+    <form class="container" action="/update_exhibitor/<%=exhibitor_id%>/<%=exhibitor_name%>/<%=email_id%>/<%=phone_no%>/<%=company_name%>/<%=company_description%>/<%=company_addr%>/<%=company_pin_code%>/<%=industry_name%>/<%=state_name%>/<%=country_name%>"
+        method="POST">
+        <div class="mb-3">
+            <label class="form-label">Enter exhibitor name</label>
+            <input type="text" class="form-control" name="exhibitor_name" value="<%=exhibitor_name%>">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Enter your email</label>
+            <input type="email" class="form-control" name="email_id" value="<%=email_id%>">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Enter your contact number</label>
+            <input type="text" class="form-control" name="phone_no" value="<%=phone_no%>">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Enter your company name</label>
+            <input type="text" class="form-control" name="company_name" value="<%=company_name%>">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Enter your company description</label>
+            <input type="text" class="form-control" name="company_description" value="<%=company_description%>">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Enter your company address</label>
+            <input type="text" class="form-control" name="company_addr" value="<%=company_addr%>">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Enter your company pin code</label>
+            <input type="text" class="form-control" name="company_pin_code" value="<%=company_pin_code%>">
+        </div>
+
+
+        <div class="input-group mb-3">
+            <label class="input-group-text">Select Industry Name</label>
+            <select class="form-select" name="industry_name">
+                <option selected value="<%=industry_name%>"><%=industry_name%></option>
+                <%industry_data.forEach((item)=>{%>
+                  <option value="<%=item.industry_name%>"><%=item.industry_name%></option>
+                <%});%>
+            </select>
+        </div>
+
+        <div class="input-group mb-3">
+            <label class="input-group-text">Select State Name</label>
+            <select class="form-select" name="state_name">
+                <option selected value="<%=state_name%>"><%=state_name%></option>
+                <%state_data.forEach((item)=>{%>
+                  <option value="<%=item.state_name%>"><%=item.state_name%></option>
+                <%});%>
+            </select>
+        </div>
+
+        <div class="input-group mb-3">
+            <label class="input-group-text" for="inputGroupSelect01">Select Country Name</label>
+            <select class="form-select" name="country_name" id="inputGroupSelect01">
+                <option selected value="<%=country_name%>"><%=country_name%></option>
+                <%country_data.forEach((item)=>{%>
+                  <option value="<%=item.country_name%>"><%=item.country_name%></option>
+                <%});%>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+</body>
+
+</html>
