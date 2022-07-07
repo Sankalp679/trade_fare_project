@@ -4,11 +4,14 @@
 <details><summary><b>Tools</b></summary>
 </br>
 
-|    | Technologies used                                                                                                                                                      |
+|    | Technologies Used                                                                                                                                                      |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. | HTML , CSS , Bootstrap for frontend.                                                                                                                             |
-| 2. | Heidi SQL for storing data.                                                                                                                                            |
-| 3. | Flask and python for deployment.                                                                                                                                       |
+| 1. | HTML , CSS , JS, Bootstrap for frontend.                                                                                                                             |
+| 2. | MySQL for storing data.                                                                                                                                            |
+| 3. | Node.js and Express for backend.                                                                                                                                       |
+| 4. | EJS (Embedded Javascript Templating) for dynamic rendering of data(database) in frontend.                                                                                                                                    |
+
+| 5. | Charts.js for graphs                                                                                                                                       |
 
 </details>   
   
@@ -29,10 +32,13 @@
 
 |    | Things Achieved During The Project                                                                                                                                     |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. | Learnt to make database from scrap.                                                                                                                                    |
-| 2. | Conntected all the tables in proper format and implemented it.                                                                                                         |
-| 3. | Intergrated database with flask using python.                                                                                                                          |
-| 4. | Application of all CRUD operations i.e. add , update , delete operations.                                                                                              |                                                                                                                      |
+| 1. | Learnt to make er diagram and database from scrap.                                                                                                                                    |
+| 2. | Connected all the tables in proper format and implemented it using MySQL.                                                                                                    |
+| 3. | Implemented backend using Node.js, Express(Node.js Framework).                                                                                                                          |
+| 4. | Connected database with Node.js, Express (backend) using JS.                                                                                                                          |
+| 5. | Used EJS templating for dynamic rendering of data from database.                                                                                                                         | 
+| 6. | Implemented all the CRUD operations i.e. add , update , delete operations.                                                                                              |     
+| 7. | Learned dynamic plotting of graphs in frontend using Charts.js.                                                                                             |     |
 </details> 
 
 <div align="center">
