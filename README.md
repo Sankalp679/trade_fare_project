@@ -17,7 +17,7 @@
 <details><summary><b>Video Demonstration</b></summary>
 </br>
 <h4>Entity Relationship Diagram</h4>
-<img class="center" alt="er diagram" src="images_readme/Trade Fare Relational Data Model.pdf"> </img></br></br>
+<img class="center" alt="er diagram" src="images_readme/Trade Fare Relational Data Model.jpg"> </img></br></br>
 <h4>Dashboard</h4>
 <img class="center" alt="Dashboard" src="images_readme/dashboard.gif"></img></br></br>
 <h4>Adding new data and reflecting the same on Database. </h4>
