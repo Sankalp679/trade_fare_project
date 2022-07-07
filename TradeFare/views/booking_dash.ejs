@@ -33,10 +33,17 @@
 
 
     <script type="text/javascript">
+        var lab = {
+            {
+                label | tojson
+            }
+        };
 
-        var lab = {{ label | tojson}};
-
-        var serie = {{ serie | tojson }};
+        var serie = {
+            {
+                serie | tojson
+            }
+        };
         console.log(lab, serie)
         var data = {
 
@@ -46,8 +53,6 @@
                 serie
             ]
         };
-
-
         console.log(lab)
         new Chartist.Line('.ct-chart', data);
     </script>
