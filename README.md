@@ -6,11 +6,11 @@
 
 |    | Technologies Used                                                                                                                                                      |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. | HTML , CSS , JS, BOOTSTRAP for frontend                                                                                                                          |
+| 1. | HTML , CSS , JS, BOOTSTRAP for building mobile responsive frontend                                                                                                                          |
 | 2. | MySQL for storing data                                                                                                                                          |
 | 3. | Node.js and Express for backend                                                                                                                                    |
 | 4. | EJS (Embedded Javascript Templating) for dynamic rendering of data(database) to frontend                                                                                                                                   |
-| 5. | Charts.js for graphs                                                                                                                                       |
+| 5. | Charts.js for dynamic rendering of plots                                                                                                                                       |
 
 </details>   
   
@@ -39,7 +39,7 @@
 | 4. | Connected database with Node.js, Express (backend) using JS                                                                                                                          |
 | 5. | Used EJS templating for dynamic rendering of data from database to frontend                                                                                                                        | 
 | 6. | Implemented all the CRUD operations i.e. add , update , delete operations                                                                                              |     
-| 7. | Learned dynamic plotting of graphs in frontend using Charts.js                                                                                             |     |
+| 7. | Learned dynamic rendering of plots in frontend using Charts.js                                                                                             |     |
 </details> 
 
 <div align="center">
