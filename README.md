@@ -1,5 +1,23 @@
 <h1 align="center">Database Management System (Trade Fare Website Clone)</h1>
   
+<details><summary><b>What does this website do?</b></summary>
+</br>
+
+|    | Problems Solved Using The Website                                                                                                                                                |
+|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. | The trade fare website is a database management system where the organizers, visitors, and exhibitors can add, delete, and update the details on their respective needed pages                                                                                                                       |
+| 2. | It has pages to help organizers to track country states, venues, events, and industries                                                                                                                                        |
+| 3. | It has pages to help exhibitors enter the details and to help them to do bookings for particular events                                                                                                                                  |
+| 4. |It has pages to help the visitors to track their spending-related details of particular events with particular exhibitors                                                                                                                               |
+| 5. |It has dashboards for better visualization of company_sales, the total number of exhibitors industry-wise, and the total number of exhibitors taking part in particular events                                                                                                                                      |
+| 6. |The website is fully mobile responsive and can work on any device                                                                                                                                       |
+</details>  
+
+<details><summary><b>Mentor</b></summary>
+</br>
+
+[Sushant Bansal (Analyst Wissen Technologies)](https://www.linkedin.com/in/sushant-bansal-0263b0192/)
+</details>  
 
 <details><summary><b>Tools</b></summary>
 </br>
